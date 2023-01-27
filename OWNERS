@@ -1,10 +1,12 @@
 approvers:
-  - bjoydeep
-  - jlpadilla
-  - gurnben
-  - xrajesh
+- dislbenn
+- marcolan018
+- ngraham20
+- subbarao-meduri
+- bjoydeep
+
 reviewers:
-  - bjoydeep
-  - jlpadilla
-  - gurnben
-  - xrajesh
+- clyang82
+- haoqing0110
+- morvencao
+- songleo
